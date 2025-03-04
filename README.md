@@ -24,7 +24,7 @@ The project was implemented using Python 3.0. Libraries used :
 + What is the education level requirement in the data domain?
 + What are preferred programming languages?
 + what are the different platforms used by developers?
-+ what is the current working model folowed in the industry?
++ what is the current working model followed in the industry?
 
 ## File Descriptions
 The Jupyter notebook showcases the analysis done in order to explore the dataset, the data prepartion and wrangling in order to answer the questions above. The notebook contains markdown cells to help with documentation of the steps as well as to communicate findings based on each analysis.
