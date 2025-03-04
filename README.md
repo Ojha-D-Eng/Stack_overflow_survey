@@ -1,5 +1,7 @@
 <img src="Designer.jpg" style ="width: 5000px;"/>
+
 ## Stack overflow survey
+
 ## Motivation
 This project is part of the requirement for Data Scientist Nanodegree on Udacity. The project aims to analyze aspects of the developer survey result published by Stack overflow in 2024.
 
