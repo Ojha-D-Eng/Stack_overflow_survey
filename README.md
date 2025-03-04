@@ -14,10 +14,10 @@ This project is part of the requirement for Data Scientist Nanodegree on Udacity
 
 ## Libraries
 The project was implemented using Python 3.0. Libraries used :
-Matplotlib
-NumPy
-Pandas
-sns
++ Matplotlib
++ NumPy
++ Pandas
++ sns
 
 ## Developer survey Data Analysis for
 What is the age group of developers working in data engineering?
