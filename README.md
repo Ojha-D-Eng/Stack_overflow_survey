@@ -32,5 +32,6 @@ The Jupyter notebook showcases the analysis done in order to explore the dataset
 ## Acknowledgements
 Credit to the Stack overflow developer survey result 2024 published by stack overflow, the dataset here:https://cdn.sanity.io/files/jo7n4k8s/production/262f04c41d99fea692e0125c342e446782233fe4.zip/stack-overflow-developer-survey-2024.zip
 
-​# Blogpost
+​## Blogpost
+
 The link for the Blog is https://medium.com/@rohit5206/stack-overflow-developer-survey-2024-687e3b9b6bd6
